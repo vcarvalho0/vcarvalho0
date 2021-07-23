@@ -1,5 +1,8 @@
 ## About me 👋
 
+Hey, I'm Vitor.\
+Welcome to my github profile.
+
 ### Information
 
 - Languages: English and Portuguese
