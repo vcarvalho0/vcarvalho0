@@ -4,7 +4,7 @@
 
 - Languages: English and Portuguese
 
-### Other things
+### Contact
 
 Feel free to contact me!
 
