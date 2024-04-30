@@ -6,7 +6,7 @@
 
 ### `$ whoami`
 
-Hey, I'm Vitor, 20 years old software developer!\
+Hey, I'm Vitor, 21 years old software developer!\
 Welcome to my github profile, here you can find some informations about me.
 
 ### `Information`
@@ -14,7 +14,6 @@ Welcome to my github profile, here you can find some informations about me.
 > 📚Languages \
 > English and Portuguese
 
-> 💻Learning typescript/javascript \
-> Interest in rust and functional programming
+> I like to search random stuff to code
 
 > 👷‍♂️ Currently looking for a job 
